@@ -47,4 +47,9 @@ Promise.resolve()
     })
     .then(() => {
         console.log('Promise 的第二次回调');
+    })
+    .then(()=>{
+        console.log('Promise 的第三次回调');
     });
+
+console.log('主线程console')
