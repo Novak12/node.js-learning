@@ -3,4 +3,4 @@
 在使用node.js的过程中，我们总是在require不同的模块，而总有些模块会不断的被引用，所以搞懂那些核心模块似乎也会慢慢解开node.js的神秘面纱。</br>
 愿所有的付出终将会有收获，与君共勉。
 ## 目录
-* ![1.]
+* [1.cluster集群](https://github.com/Novak12/node.js-learning/blob/master/doc/1.cluster%E9%9B%86%E7%BE%A4.md)
