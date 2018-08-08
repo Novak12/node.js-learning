@@ -4,3 +4,5 @@
 愿所有的付出终将会有收获，与君共勉。
 ## 目录
 * [1.cluster集群](https://github.com/Novak12/node.js-learning/blob/master/doc/1.cluster%E9%9B%86%E7%BE%A4.md)
+* [2.cluster模块深入分析](https://github.com/Novak12/node.js-learning/blob/master/doc/2.cluster%E6%A8%A1%E5%9D%97%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90.md)
+* []()
