@@ -8,4 +8,4 @@
 * [3.socket.io的基本使用](https://github.com/Novak12/node.js-learning/blob/master/doc/3.socket.io%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.md)
 * [4.websocket是个啥？](https://github.com/Novak12/node.js-learning/blob/master/doc/4.websocket%E6%98%AF%E4%B8%AA%E5%95%A5%EF%BC%9F.md)
 * [5.libuv之event loop](https://github.com/Novak12/node.js-learning/blob/master/doc/5.libuv%E4%B9%8BEvent%20loop.md)
-* []()
+* [6.stream--探寻](https://github.com/Novak12/node.js-learning/blob/master/doc/6.stream--%E6%8E%A2%E5%AF%BB.md)
