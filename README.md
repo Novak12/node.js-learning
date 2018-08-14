@@ -9,3 +9,4 @@
 * [4.websocket是个啥？](https://github.com/Novak12/node.js-learning/blob/master/doc/4.websocket%E6%98%AF%E4%B8%AA%E5%95%A5%EF%BC%9F.md)
 * [5.libuv之event loop](https://github.com/Novak12/node.js-learning/blob/master/doc/5.libuv%E4%B9%8BEvent%20loop.md)
 * [6.stream--探寻](https://github.com/Novak12/node.js-learning/blob/master/doc/6.stream--%E6%8E%A2%E5%AF%BB.md)
+* [7.module的加载机制](https://github.com/Novak12/node.js-learning/blob/master/doc/7.module%E7%9A%84%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)
