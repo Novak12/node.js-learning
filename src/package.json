@@ -9,6 +9,7 @@
   "author": "novak",
   "license": "ISC",
   "dependencies": {
+    "fs": "0.0.1-security",
     "koa": "^2.5.2",
     "mongoose": "^5.2.7"
   }
